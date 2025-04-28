@@ -76,5 +76,25 @@ README.md
     Implement a high score saving feature (local storage).
 
     Add more colors and special effects at higher levels.
+    
+Credits
 
+    Click Sound (click.mp3)
+    Sound Effect by Kamil from Pixabay
+
+    Success Sound (success.mp3)
+    Sound Effect by Universfield from Pixabay
+
+    Game Over Sound (gameover.mp3)
+    Sound Effect by Nc PRIME from Pixabay
+
+    Background Music (background.mp3)
+    Sound Effect by jeussfl2009 from Pixabay
+
+    Opening Music (opening.mp3)
+    Sound Effect by freesound_community from Pixabay
+
+    Background Image
+    vecteezy_closed-door-on-spaceship-background-for-games-hallway-with_3546107
+    
 If you like the project, ⭐️ star it on GitHub and feel free to contribute!
