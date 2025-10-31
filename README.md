@@ -2,7 +2,7 @@
 🤖 Robot Reflex: Color Match
 A fast-paced reaction game where you must click when the robot's eye color matches the target color!
 
-##Features
+##Features##
     Dynamic Gameplay: Robot eye colors change rapidly as levels increase.
     Sound Effects: Opening music, background music, click sound, success, and game-over sounds.
     Responsive Canvas: Game resizes with window for any screen size.
